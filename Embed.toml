@@ -1,0 +1,5 @@
+[default.general]
+chip = "STM32L475VETx"
+
+[with_rtt.rtt]
+enabled = true
